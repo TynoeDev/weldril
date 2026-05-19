@@ -932,7 +932,7 @@ readers do not read off random characters that represent icons */
   content: "\f5d1";
 }
 
-.fa-boreholepumpz ::before {
+.fa-welldrillers ::before {
   content: "\f557";
 }
 
@@ -19406,8 +19406,8 @@ readers do not read off random characters that represent icons */
   content: "\f5d1\f5d1";
 }
 
-.fad.fa-boreholepumpz ::after,
-.fa-duotone.fa-boreholepumpz ::after {
+.fad.fa-welldrillers ::after,
+.fa-duotone.fa-welldrillers ::after {
   content: "\f557\f557";
 }
 
